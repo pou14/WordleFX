@@ -1,0 +1,8 @@
+winCount 22.0
+totalPlayed 27.0
+oneCount 5
+twoCount 6
+threeCount 5
+fourCount 2
+fiveCount 3
+sixCount 1

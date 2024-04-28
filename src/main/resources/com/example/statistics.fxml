@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="670.0" prefWidth="480.0" style="-fx-background-color: #e4dad0;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.StatisticController">
+   <children>
+      <Label layoutX="202.0" layoutY="25.0" text="Wordle">
+         <font>
+            <Font name="Britannic Bold" size="25.0" />
+         </font>
+      </Label>
+      <Label layoutX="167.0" layoutY="87.0" text="Statistics">
+         <font>
+            <Font name="Britannic Bold" size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="124.0" layoutY="215.0" text="Played" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="279.0" layoutY="215.0" text="Win %" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="117.0" layoutY="293.0" text="Guess Distribution">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="played" layoutX="149.0" layoutY="163.0" text="00" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="win_p" layoutX="281.0" layoutY="163.0" text="00.0" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="132.0" layoutY="350.0" text="1 time:" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="132.0" layoutY="400.0" text="2 times:" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="132.0" layoutY="450.0" text="3 times:" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="132.0" layoutY="500.0" text="4 times:" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="132.0" layoutY="550.0" text="5 times:" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="132.0" layoutY="600.0" text="6 times:" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="one" layoutX="294.0" layoutY="350.0" text="0" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="two" layoutX="294.0" layoutY="400.0" text="0" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="three" layoutX="294.0" layoutY="450.0" text="0" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="four" layoutX="294.0" layoutY="500.0" text="0" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="five" layoutX="294.0" layoutY="550.0" text="0" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="six" layoutX="294.0" layoutY="600.0" text="0" textAlignment="CENTER">
+         <font>
+            <Font name="Britannic Bold" size="30.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="45.0" fitWidth="45.0" layoutX="422.0" layoutY="15.0" onMouseClicked="#switchToPrimary" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="file:/C:/Users/ivano/OneDrive/桌面/CSCE%20314/Wordle/wordle/src/main/resources/com/example/home.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

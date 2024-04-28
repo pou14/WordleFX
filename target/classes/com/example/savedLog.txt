@@ -1,0 +1,38 @@
+10 3 11 
+thigh
+H #c9c297
+A #adb3af
+P #adb3af
+P #adb3af
+Y #adb3af
+
+H #c9c297
+E #adb3af
+L #adb3af
+L #adb3af
+O #adb3af
+
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+empty #f5f1e8
+
