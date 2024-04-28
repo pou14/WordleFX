@@ -7,9 +7,9 @@
 - Press the del button to delete the previous letter.
 - After your submission, the color of the tiles will change
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pou14/wordleFX/assets/104444622/7d19dd35-895a-4f8c-ab70-a7fbee7a77bf">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pou14/wordleFX/assets/104444622/7d19dd35-895a-4f8c-ab70-a7fbee7a77bf">
-  <img alt="Input Example" src="https://github.com/pou14/wordleFX/assets/104444622/7d19dd35-895a-4f8c-ab70-a7fbee7a77bf">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pou14/WordleFX/assets/104444622/d141fdbe-8625-4ba3-a56a-6732223ac80f">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/pou14/WordleFX/assets/104444622/d141fdbe-8625-4ba3-a56a-6732223ac80f">
+  <img alt="Input Example" src="https://github.com/pou14/WordleFX/assets/104444622/d141fdbe-8625-4ba3-a56a-6732223ac80f">
 </picture>  
 
 - The letter **H** is in the word and the right spot.  
