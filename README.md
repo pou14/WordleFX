@@ -1,4 +1,6 @@
 # WordleFX in Java
+## Warnings
+- After downloading and combining the files, please update the file paths in the code for the gameLog, savedFile, savedLog, and words files located in "/src/main/resources/com/example/*.txt"
 
 ## Rules
 - Guess the hidden word in 6 tries.
@@ -35,8 +37,8 @@
   4. **"Fill in all blanks!"** indicates that the user is trying to check answers without filling in all blanks for the given row.
   5. **"Word not in the list"** indicates that the user entered a word not in the word bank.
   6. **"No more input!"** indicates that the game has already been won or lost.
-  7. **"File saved!"** indicates that the saved file has been loaded and updated on the board.
-  8. **"File loaded!"** indicates that the current board has been saved.
+  7. **"File saved!"** indicates that the current board has been saved.
+  8. **"File loaded!"** indicates that the saved file has been loaded and updated on the board.
 - **Enter:** Checks if the input matches the random word chosen.
 - **Del:** Deletes the previously entered element.  
 - **Keyboard:** Select a button to make inputs.
